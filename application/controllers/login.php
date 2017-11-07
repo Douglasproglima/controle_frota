@@ -101,7 +101,7 @@ class Login extends CI_Controller {
 		    'smtp_host' => 'ssl://smtp.googlemail.com',
 		    'smtp_port' => 465,
 		    'smtp_user' => 'douglasproglimateste@gmail.com',
-		    'smtp_pass' => 'dga,@!2612',
+		    'smtp_pass' => '123456',
 		    'mailtype'  => 'text', 
 		    'charset'   => 'iso-8859-1'
 		);
